@@ -1,0 +1,10 @@
+# required by dev-python/ipython-3.2.1-r1::gentoo[python_targets_python3_5]
+# required by dev-python/netaddr-0.7.19::gentoo[cli]
+# required by app-admin/ansible-2.4.2.0::gentoo
+# required by ansible (argument)
+dev-lang/python sqlite
+# required by dev-python/ipython-3.2.1-r1::gentoo[python_targets_python2_7]
+# required by dev-python/netaddr-0.7.19::gentoo[cli]
+# required by app-admin/ansible-2.4.2.0::gentoo
+# required by ansible (argument)
+dev-lang/python sqlite

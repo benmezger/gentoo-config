@@ -1,0 +1,13 @@
+# required by x11-wm/i3-4.13-r1::gentoo
+# required by x11-wm/i3 (argument)
+x11-libs/cairo X xcb
+# required by x11-wm/i3-4.13-r1::gentoo
+# required by x11-wm/i3 (argument)
+x11-libs/pango X
+# required by x11-wm/i3-4.13-r1::gentoo
+# required by x11-wm/i3 (argument)
+x11-libs/libxkbcommon X
+# required by x11-libs/libxkbcommon-0.7.1::gentoo[X]
+# required by x11-wm/i3-4.13-r1::gentoo
+# required by x11-wm/i3 (argument)
+x11-libs/libxcb xkb
