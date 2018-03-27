@@ -3,6 +3,7 @@ app-admin/stow ~amd64
 media-fonts/fontawesome ~amd64
 app-misc/ckb ~amd64
 =x11-themes/numix-icon-theme-9999 **
+=x11-misc/autorandr-9999 **
 
 # gkeys
 app-crypt/gkeys ~amd64
