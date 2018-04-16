@@ -1,3 +1,6 @@
 # required by google-chrome (argument)
 www-client/google-chrome google-chrome
 app-emulation/virtualbox-bin PUEL
+
+# required by oracle-jdk-bin
+dev-java/oracle-jdk-bin Oracle-BCLA-JavaSE
