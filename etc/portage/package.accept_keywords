@@ -21,3 +21,6 @@ dev-python/neovim-python-client ~amd64
 # radare2
 dev-util/radare2 ~amd64
 dev-libs/capstone ~amd64
+
+# clion
+dev-util/clion ~amd64
