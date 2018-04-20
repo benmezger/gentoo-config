@@ -83,6 +83,7 @@ sys-power/acpi
 sys-process/htop
 virtual/jre
 virtual/libudev
+www-client/chromium
 www-client/google-chrome
 x11-apps/xbacklight
 x11-apps/xinit

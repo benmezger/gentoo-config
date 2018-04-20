@@ -1,0 +1,8 @@
+# required by www-client/chromium-65.0.3325.146::gentoo
+# required by chromium (argument)
+media-libs/harfbuzz icu
+# required by www-client/chromium-65.0.3325.146::gentoo
+# required by chromium (argument)
+dev-libs/libxml2 icu
+
+
