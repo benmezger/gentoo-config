@@ -17,6 +17,7 @@ app-emulation/virtualbox-bin
 app-misc/ckb
 app-misc/tmux
 app-portage/eix
+app-portage/genlop
 app-portage/gentoolkit
 app-portage/layman
 app-portage/mirrorselect
