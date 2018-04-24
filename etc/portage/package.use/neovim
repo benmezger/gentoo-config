@@ -1,8 +1,0 @@
-app-editors/neovim python
-# required by app-editors/neovim-0.2.2-r1::gentoo
-# required by app-editors/neovim (argument)
-dev-lua/mpack luajit
-# required by app-editors/neovim-0.2.2-r1::gentoo
-# required by app-editors/neovim (argument)
-dev-lua/lpeg luajit
-
