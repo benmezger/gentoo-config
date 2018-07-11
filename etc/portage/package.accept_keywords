@@ -5,22 +5,31 @@ app-misc/ckb ~amd64
 =x11-themes/numix-icon-theme-9999 **
 =x11-misc/autorandr-9999 **
 
-# gkeys
+## gkeys
 app-crypt/gkeys ~amd64
 dev-python/snakeoil ~amd64
 
-# telegram
+## telegram
 net-im/telegram-desktop-bin ~amd64
 
-# neovim
+## neovim
 app-editors/neovim ~amd64
 dev-libs/msgpack ~amd64
 dev-python/msgpack ~amd64
 dev-python/neovim-python-client ~amd64
 
-# radare2
+## radare2
 dev-util/radare2 ~amd64
 dev-libs/capstone ~amd64
 
-# clion
+## clion
 dev-util/clion ~amd64
+
+## Signal
+net-im/signal-desktop-bin ~amd64
+
+## sakaki-tools
+*/*::sakaki-tools ~amd64
+
+# all versions of efitools currently marked as ~ in Gentoo tree
+app-crypt/efitools ~amd64
