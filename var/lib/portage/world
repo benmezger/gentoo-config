@@ -21,10 +21,11 @@ app-portage/genlop
 app-portage/gentoolkit
 app-portage/layman
 app-portage/mirrorselect
+app-portage/showem
 app-shells/gentoo-zsh-completions
 app-shells/zsh
 dev-java/oracle-jdk-bin
-dev-util/android-studio
+dev-util/android-tools
 dev-util/clion
 dev-util/cmake
 dev-util/hopper
@@ -53,6 +54,7 @@ media-sound/alsa-utils
 media-sound/spotify
 net-analyzer/macchanger
 net-analyzer/wireshark
+net-im/signal-desktop-bin
 net-im/telegram-desktop-bin
 net-irc/hexchat
 net-misc/curl
@@ -66,6 +68,7 @@ sys-apps/dbus
 sys-apps/hwinfo
 sys-apps/mlocate
 sys-apps/pciutils
+sys-apps/rng-tools
 sys-apps/the_silver_searcher
 sys-apps/usbutils
 sys-boot/grub
@@ -84,7 +87,6 @@ sys-power/acpi
 sys-process/htop
 virtual/jre
 virtual/libudev
-www-client/chromium
 www-client/google-chrome
 x11-apps/xbacklight
 x11-apps/xinit
