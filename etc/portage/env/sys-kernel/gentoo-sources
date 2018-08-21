@@ -1,6 +1,5 @@
 post_pkg_postinst() {
-	# CURRENT_KV=$(uname -r)
-	CURRENT_KV="4.14.63-gentoo-r1"
+	CURRENT_KV=$(uname -r)
 
 	# This assumes that the kernel ebuild was emerged with the
 	# 'symlink' use flag set, so that /usr/src/linux points to the
