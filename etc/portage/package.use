@@ -73,3 +73,8 @@ app-editors/vim python
 app-emulation/virtualbox-bin additions 
 x11-base/xorg-server -suid
 sys-libs/zlib minizip
+
+# required by media-sound/pulseaudio-11.1::gentoo[alsa-plugin,alsa]
+# required by www-client/firefox-bin-52.7.3::gentoo[pulseaudio]
+# required by firefox-bin (argument)
+media-plugins/alsa-plugins pulseaudio
