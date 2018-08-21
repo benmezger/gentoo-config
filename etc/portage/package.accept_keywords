@@ -33,3 +33,5 @@ net-im/signal-desktop-bin ~amd64
 
 # all versions of efitools currently marked as ~ in Gentoo tree
 app-crypt/efitools ~amd64
+# required by @preserved-rebuild (argument)
+=dev-util/hopper-4.3.26 ~amd64
