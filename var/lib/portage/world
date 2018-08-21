@@ -24,6 +24,7 @@ app-portage/mirrorselect
 app-portage/showem
 app-shells/gentoo-zsh-completions
 app-shells/zsh
+app-text/asciidoc
 dev-java/oracle-jdk-bin
 dev-util/android-tools
 dev-util/clion
