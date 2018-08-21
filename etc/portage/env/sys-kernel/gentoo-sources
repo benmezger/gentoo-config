@@ -1,0 +1,16 @@
+post_pkg_postinst() {
+	# CURRENT_KV=$(uname -r)
+	CURRENT_KV="4.14.63-gentoo-r1"
+
+	# This assumes that the kernel ebuild was emerged with the
+	# 'symlink' use flag set, so that /usr/src/linux points to the
+	# newly emerged kernel.
+	cp "${EROOT}/usr/src/linux-${CURRENT_KV}/.config" "${EROOT}/usr/src/linux"
+
+	pushd .
+	cd "${EROOT}/usr/src/linux"
+	make olddefconfig
+	popd
+
+	genkernel all
+}
